@@ -1,4 +1,4 @@
-update=Пн. 25 июля 2016 13:46:51
+update=Ср. 03 авг. 2016 17:37:31
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/w25q64fvssig
+LibName31=lib/transfo_4
