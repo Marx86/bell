@@ -826,7 +826,7 @@ U 1 1 57BAF952
 P 2900 1300
 F 0 "R3" V 2980 1300 50  0000 C CNN
 F 1 "5.1" V 2900 1300 50  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" H 2900 1300 60  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM20mm" H 2900 1300 60  0001 C CNN
 F 3 "" H 2900 1300 60  0000 C CNN
 	1    2900 1300
 	1    0    0    -1  

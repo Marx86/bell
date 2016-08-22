@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/max/projects/bell/kicad/bell.sch)
-    (date "Пн. 22 авг. 2016 16:18:08")
+    (date "Пн. 22 авг. 2016 16:47:32")
     (tool "Eeschema 4.0.2+e4-6225~38~ubuntu15.10.1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -215,7 +215,7 @@
       (tstamp 57A23547))
     (comp (ref R3)
       (value 5.1)
-      (footprint Resistors_ThroughHole:Resistor_Horizontal_RM10mm)
+      (footprint Resistors_ThroughHole:Resistor_Horizontal_RM20mm)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
       (tstamp 57BAF952)))
